@@ -1014,6 +1014,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 3827749883306651011, guid: 3e63c5427f65ead4ea2517f1133846d9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4303341383767861071, guid: 3e63c5427f65ead4ea2517f1133846d9, type: 3}
       propertyPath: m_SpriteTilingProperty.oldSize.x
       value: 5.08
