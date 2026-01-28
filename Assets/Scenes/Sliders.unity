@@ -1988,7 +1988,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Set Ye Stats:'
+  m_text: 'Set thy stats:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a8d1671cd2a2f41028467f621686331b, type: 2}
   m_sharedMaterial: {fileID: 4367287807662978871, guid: a8d1671cd2a2f41028467f621686331b, type: 2}
